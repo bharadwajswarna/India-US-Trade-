@@ -1,7 +1,7 @@
 # India-US-Trade-
 This project aims to study the impact on Indian Exports to the US after withdrawal of the GSP Status to India.
 
-MIT License
+# MIT License
 
 Copyright (c) [2024] [Bharadwaj Swarna]
 
